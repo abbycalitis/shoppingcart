@@ -41,8 +41,8 @@ export default {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 .productHeader h1 {
-  margin-bottom: 10px; /* Lessen the bottom margin */
-  margin-left: 20px; /* Add margin to the left */
+  margin-bottom: 10px;
+  margin-left: 20px;
 }
 .productBox {
   margin-left: 50px;
@@ -52,11 +52,11 @@ export default {
 .productCard {
   margin: 20px;
   padding: 25px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a shadow for depth */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   height: 200px;
   width: 200px;
   box-sizing: border-box;
-  border-radius: 10px; /* Rounded corners */
+  border-radius: 10px;
   text-align: center;
   font-size: 1rem;
 }

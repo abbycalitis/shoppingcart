@@ -58,10 +58,10 @@ export default {
 
 <style>
 .cartTitle {
-  height: 450px; /* Set a fixed height for the cart */
+  height: 450px;
   width: 25%;
   margin-top: 10px;
-  right: 40px; /* Distance from the right side of the viewport */
+  right: 40px;
   z-index: 1000;
   position: fixed;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -81,7 +81,7 @@ export default {
 }
 
 .shoppingCart h1 {
-  margin-top: 5px; /* Lessen the bottom margin */
+  margin-top: 5px;
 }
 
 .removeItem {
@@ -90,10 +90,10 @@ export default {
   border-color: red;
 }
 .total-price {
-  height: 450px; /* Set a fixed height for the cart */
+  height: 450px;
   width: 25%;
   margin-top: 530px;
-  right: 40px; /* Distance from the right side of the viewport */
+  right: 40px;
   z-index: 1000;
   position: fixed;
   font-size: 1.5rem;
