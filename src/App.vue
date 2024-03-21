@@ -33,6 +33,11 @@ export default {
         { id: 8, name: "Ube", price: 60 },
         { id: 9, name: "Coke Float", price: 55 },
         { id: 10, name: "Ice Cream", price: 30 },
+        { id: 11, name: "Milktea", price: 50 },
+        { id: 12, name: "Yakult", price: 15 },
+        { id: 13, name: "Mogu-Mogu", price: 45 },
+        { id: 14, name: "Apple Juice", price: 30 },
+        { id: 15, name: "Water", price: 20 },
       ],
       cart: [],
     };
