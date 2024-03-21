@@ -1,6 +1,6 @@
 <template>
   <div class="productHeader">
-    <h1>List of Products</h1>
+    <h1>Tindahang Pinoy Menu</h1>
     <div class="productList">
       <div class="productBox">
         <div v-for="product in products" :key="product.id" class="productCard">
