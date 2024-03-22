@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # activity3
 
 ## Project setup
@@ -25,4 +25,3 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
 # shoppingcart
->>>>>>> fc480abf63c1f853786320472fa4128d18bc40e4
